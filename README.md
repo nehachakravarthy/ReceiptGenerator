@@ -1,0 +1,4 @@
+ReceiptGenerator
+================
+
+A simple register
